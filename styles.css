@@ -31,7 +31,7 @@ a {
   transition: opacity 300ms ease;
 }
 
-i:hover {
+.svg-inline--fa:hover {
   opacity: 0.7;
 }
 
